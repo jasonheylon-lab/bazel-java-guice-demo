@@ -1,0 +1,1 @@
+# bazel-java-guice-demo
